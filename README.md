@@ -17,9 +17,7 @@
 <code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg"></a></code>
 
----
 
-![Nasuh's github stats](https://github-readme-stats.vercel.app/api?username=nasuh-unal&show_icons=true&line_height=30)
 
 ----
 
