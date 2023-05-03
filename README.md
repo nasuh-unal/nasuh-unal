@@ -19,6 +19,7 @@
 
 ----
 
+**📫 Reach me at:**
 <br>
 <p align="center">
     <a href="https://www.linkedin.com/in/nasuh-%C3%BCnal-7b69a8239/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
