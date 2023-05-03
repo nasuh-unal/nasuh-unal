@@ -12,4 +12,5 @@
 
 <code><a href="https://www.android.com/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg"></a></code>
 <code><a href="https://kotlinlang.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"></a></code>
-<code><a href="https://www.android.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
+<code><a href="https://www.java.com/tr/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
+<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
