@@ -7,7 +7,7 @@
 - 👨‍💻 21 Years old Developer  
 - 🌱 I’m currently learning Android Programing with Kotlin
 
-
+----
 
 **🌱 Currently working on:**
 
