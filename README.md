@@ -16,9 +16,7 @@
 <code><a href="https://www.java.com/tr/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
 <code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg"></a></code>
-
-
-
+.
 ----
 
 **📫 Reach me at:**
