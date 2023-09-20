@@ -25,6 +25,7 @@
     <a href="https://www.linkedin.com/in/nasuh-%C3%BCnal-7b69a8239/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
     <a href="mailto:nasuhunal1@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
     <a href="https://stackoverflow.com/users/21650039/nasuh-%c3%9cnal"><img alt="Stackoverflow" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" width="100" height="30" /></a>
+    <a href="https://medium.com/@nasuhunal1"><img alt="Medium" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="100" height="30" /></a>
     
 ----    
  
