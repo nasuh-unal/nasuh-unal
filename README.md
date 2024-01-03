@@ -4,7 +4,6 @@
 <img width="30%" align="right" alt="Github" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" />
 
 - 🎓 I’m a Student Software Engineer from Firat University
-- 👨‍💻 21 Years old Developer  
 - 🌱 I’m currently learning Android Programing with Kotlin
 
 ----
