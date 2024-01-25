@@ -5,6 +5,7 @@
 
 - 🎓 I’m a Student Software Engineer from Firat University
 - 🌱 I’m currently learning Android Programing with Kotlin
+- ✨ Take a look at this repository https://github.com/nasuh-unal/MovieApp
 
 ----
 
