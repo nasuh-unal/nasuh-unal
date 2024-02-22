@@ -5,7 +5,8 @@
 
 - 🎓 I’m a Student Software Engineer from Firat University
 - 🌱 I’m currently learning Android Programing with Kotlin
-- ✨ Take a look at this repository https://github.com/nasuh-unal/MovieApp
+- 🚀 I’m currently learning Jetpack Compose 👉 [Compose Tutorial Repository](https://github.com/nasuh-unal/ComposeTutorial)
+- ✨ Take a look at this repository 👉 [MovieApp](https://github.com/nasuh-unal/MovieApp)
 
 ----
 
@@ -13,6 +14,7 @@
 
 <code><a href="https://www.android.com/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg"></a></code>
 <code><a href="https://kotlinlang.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"></a></code>
+<code><a href="https://developer.android.com/jetpack/compose" target="_blank"><img height="60" src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png"></a></code>
 <code><a href="https://www.java.com/tr/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
 <code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg"></a></code>
