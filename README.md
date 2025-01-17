@@ -6,7 +6,7 @@
 - 🎓 I’m a Student Software Engineer from Firat University
 - 🌱 I’m currently learning Android Programing with Kotlin
 - 🚀 I’m currently learning Jetpack Compose 👉 [Compose Tutorial Repository](https://github.com/nasuh-unal/ComposeTutorial)
-- ✨ Take a look at this repository 👉 [MovieApp](https://github.com/nasuh-unal/MovieApp)
+- ✨ Take a look at this repository 👉 [DuoSwipe App](https://github.com/nasuh-unal/DuoSwipe)
 
 ----
 
