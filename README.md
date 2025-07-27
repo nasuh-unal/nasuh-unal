@@ -4,7 +4,7 @@
 
 
 - 🎓 I graduated from Fırat University with a degree in Software Engineering.
-- 🌱 I’m currently working Back-End Technologies and Android Programing 
+- 🌱 I’m currently working Android Programing 
 
 
 ----
