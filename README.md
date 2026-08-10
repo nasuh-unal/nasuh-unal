@@ -4,15 +4,13 @@
 
 
 - 🎓 I graduated from Fırat University with a degree in Software Engineering.
-- 🌱 I’m currently working Android Programing and Jetpack Compose
 
 
 ----
 
 **🌱 Currently working on:**
 
-<code><a href="https://kotlinlang.org/" target="_blank"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"></a></code>
-<code><a href="https://www.android.com/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg"></a></code>
+<code><a href="https://spring.io/projects/spring-boot" target="_blank"><img height="50" src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25070933/springboot-inner.svg"></a></code>
 <code><a href="https://www.java.com/tr/" target="_blank"><img height="60" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
 <code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg"></a></code>
